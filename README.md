@@ -1,5 +1,5 @@
-* 🌱 Master’s student in the Junior Research Group for Uncertainty Quantification at the Karlsruhe Institute of Technology (KIT).
-* 🚀 Research interests include computational mathematics, with a focus on numerical methods for partial differential equations (PDEs).
+* 🌱 Master’s student in the Junior Research Group for Uncertainty Quantification at the Karlsruhe Institute of Technology.
+* 🚀 Research interests include computational mathematics, with a focus on numerical methods for PDEs.
 * 🐍 Mostly Python-based; C++ when needed.
 * ✨ Believer in Free Software and open-access research.
 
