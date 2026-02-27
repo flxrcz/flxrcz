@@ -1,4 +1,9 @@
-## Hi there 👋
+* 🌱 Master’s student in the Junior Research Group for Uncertainty Quantification at the Karlsruhe Institute of Technology (KIT).
+* 🚀 Research interests include computational mathematics, with a focus on numerical methods for partial differential equations (PDEs).
+* 🐍 Mostly Python-based; C++ when needed.
+* ✨ Believer in Free Software and open-access research.
+
+
 
 <!--
 **flxrcz/flxrcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
